@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- These are the options displayed in the frequency drop-down spinner -->
+    <string-array name="array_frequency_options">
+
+        <item>@string/daily</item>
+        <item>@string/every_other_day</item>
+        <item>@string/weekly</item>
+        <item>@string/twice_monthly</item>
+        <item>@string/monthly</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+    <!-- Name of the application [CHAR LIMIT=15] -->
+    <string name="app_name">My Habit Tracker</string>
+
+    <!-- Label for setting menu -->
+    <string name="action_settings">Settings</string>
+
+    <!-- Label for overflow menu option that inserts fake habit data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Data</string>
+
+    <!-- Label for dropdown menu option if the habit is done every other day [CHAR LIMIT=20] -->
+    <string name="every_other_day">Every other day</string>
+
+    <!-- Label for dropdown menu option if the habit is done weekly [CHAR LIMIT=20] -->
+    <string name="weekly">Weekly</string>
+
+    <!-- Label for dropdown menu option if the habit is done twice a month [CHAR LIMIT=20] -->
+    <string name="twice_monthly">Twice monthly</string>
+
+    <!-- Label for dropdown menu option if the habit is done once a month [CHAR LIMIT=20] -->
+    <string name="monthly">Monthly</string>
+
+    <!-- Label for dropdown menu option if the habit is done every day [CHAR LIMIT=20] -->
+    <string name="daily">Daily</string>
+
+    <!-- Toast message for when there's an error saving a single habit [CHAR LIMIT=30] -->
+    <string name="saving_error">Error with saving habit</string>
+
+    <!-- Toast message for when the save is successful [CHAR LIMIT=30] -->
+    <string name="save_successful">Habit saved with row id:</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="overview">Overview</string>
+
+    <!-- Text hint for title field in the editor [CHAR LIMIT=30] -->
+    <string name="habit_title">Habit</string>
+
+    <!-- Text hint for info field in the editor [CHAR LIMIT=30] -->
+    <string name="extra_info">More Info</string>
+
+    <!-- Label for frequency information in the editor [CHAR LIMIT=30] -->
+    <string name="frequency">Schedule</string>
+
+    <!-- Text hint and label for time field in the editor [CHAR LIMIT=30] -->
+    <string name="time_to_complete">Minutes to complete</string>
+
+    <!-- Units of time [CHAR LIMIT=5] -->
+    <string name="mins">minutes</string>
+
+    <!-- Label for editor menu option to save habit and leave editor [CHAR LIMIT=20] -->
+    <string name="save">Save</string>
+
+    <string name="there_are">There are</string>
+    <string name="habits_logged">habits logged.</string>
+    <string name="study_udacity">Work Smart</string>
+    <string name="work_on_abnd_course">Nano Degree Course Credits</string>
+
+</resources>
